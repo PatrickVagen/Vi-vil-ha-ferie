@@ -1,2 +1,3 @@
 # Vi-vil-ha-ferie
-litt kode
+Litt kode
+Enda mer kode
